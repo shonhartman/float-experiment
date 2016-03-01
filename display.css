@@ -1,0 +1,31 @@
+* {
+  color: red;
+  margin: 20px;
+  padding: 10px;
+}
+
+.container {
+  width: 50%;
+}
+
+.experiment {
+  height: 100px;
+  background-color: #888;
+}
+
+span {
+  background-color: goldenrod;
+  display: none;
+  margin: 10px 0;
+}
+
+p {
+  width: 200px;
+  display:inline-block;
+  vertical-align: top;
+  margin: 0 20px 0 0;
+}
+
+p.no-margin {
+  margin: 0;
+}
